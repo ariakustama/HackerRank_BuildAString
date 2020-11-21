@@ -1,0 +1,12 @@
+C:\ConsoleAppStringBuilder\ConsoleAppStringBuilder\obj\Debug\netcoreapp2.1\ConsoleAppStringBuilder.csprojAssemblyReference.cache
+C:\ConsoleAppStringBuilder\ConsoleAppStringBuilder\obj\Debug\netcoreapp2.1\ConsoleAppStringBuilder.csproj.CoreCompileInputs.cache
+C:\ConsoleAppStringBuilder\ConsoleAppStringBuilder\obj\Debug\netcoreapp2.1\ConsoleAppStringBuilder.AssemblyInfoInputs.cache
+C:\ConsoleAppStringBuilder\ConsoleAppStringBuilder\obj\Debug\netcoreapp2.1\ConsoleAppStringBuilder.AssemblyInfo.cs
+C:\ConsoleAppStringBuilder\ConsoleAppStringBuilder\bin\Debug\netcoreapp2.1\ConsoleAppStringBuilder.deps.json
+C:\ConsoleAppStringBuilder\ConsoleAppStringBuilder\bin\Debug\netcoreapp2.1\ConsoleAppStringBuilder.runtimeconfig.json
+C:\ConsoleAppStringBuilder\ConsoleAppStringBuilder\bin\Debug\netcoreapp2.1\ConsoleAppStringBuilder.runtimeconfig.dev.json
+C:\ConsoleAppStringBuilder\ConsoleAppStringBuilder\bin\Debug\netcoreapp2.1\ConsoleAppStringBuilder.dll
+C:\ConsoleAppStringBuilder\ConsoleAppStringBuilder\bin\Debug\netcoreapp2.1\ConsoleAppStringBuilder.pdb
+C:\ConsoleAppStringBuilder\ConsoleAppStringBuilder\obj\Debug\netcoreapp2.1\ConsoleAppStringBuilder.dll
+C:\ConsoleAppStringBuilder\ConsoleAppStringBuilder\obj\Debug\netcoreapp2.1\ConsoleAppStringBuilder.pdb
+C:\ConsoleAppStringBuilder\ConsoleAppStringBuilder\obj\Debug\netcoreapp2.1\ConsoleAppStringBuilder.genruntimeconfig.cache
